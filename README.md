@@ -20,13 +20,13 @@
 
 # Technologies Used
 
-Apache Airflow: An open-source platform for orchestrating and scheduling workflows and data pipelines.
+- Apache Airflow: An open-source platform for orchestrating and scheduling workflows and data pipelines.
 AWS Services:
-Amazon S3: For storing raw and transformed data.
-AWS Lambda: For executing code in response to events, specifically for data transformation.
-Amazon Redshift: A data warehouse service for storing and analyzing large datasets.
-Amazon QuickSight: A business analytics service for visualizing data.
-Python: The primary programming language used for scripting the ETL process.
+- Amazon S3: For storing raw and transformed data.
+- AWS Lambda: For executing code in response to events, specifically for data transformation.
+- Amazon Redshift: A data warehouse service for storing and analyzing large datasets.
+- Amazon QuickSight: A business analytics service for visualizing data.
+- Python: The primary programming language used for scripting the ETL process.
 
 # Conclusion
-This Zillow Data Analytics ETL project showcases a comprehensive approach to building a robust data pipeline using modern cloud technologies and orchestration tools. By leveraging Apache Airflow for workflow management and AWS services for data storage and analysis, the project effectively automates the extraction, transformation, and loading of real estate data from the Zillow Rapid API.
+   This Zillow Data Analytics ETL project showcases a comprehensive approach to building a robust data pipeline using modern cloud technologies and orchestration tools. By leveraging Apache Airflow for workflow management and AWS services for data storage and analysis, the project effectively automates the extraction, transformation, and loading of real estate data from the Zillow Rapid API.
