@@ -1,6 +1,8 @@
 # Zillow Data Analytics ETL Project
 
    This project demonstrates an end-to-end data engineering pipeline utilizing Apache Airflow to automate the extraction, transformation, and loading (ETL) of real estate property data from the Zillow Rapid API into AWS services.
+   
+![Architecture](https://github.com/user-attachments/assets/83d831c9-7e5a-43bd-b443-0740ddaf321b)
 
 ## Table of Contents
 
