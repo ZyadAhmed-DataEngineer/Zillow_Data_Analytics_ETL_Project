@@ -12,13 +12,13 @@
 
 ## Project Overview
 
-- This project aims to build a robust ETL pipeline that:
-- Extracts real estate data from the Zillow Rapid API.
-- Loads the data into an Amazon S3 bucket.
-- Triggers AWS Lambda functions to transform the data into CSV format.
-- Loads the transformed data into another S3 bucket.
-- Uses Apache Airflow for orchestration, including monitoring with S3KeySensor.
-- Finally, connects Amazon QuickSight to visualize the data stored in Amazon Redshift.
+### This project aims to build a robust ETL pipeline that:
+1) Extracts real estate data from the Zillow Rapid API.
+2) Loads the data into an Amazon S3 bucket.
+3) Triggers AWS Lambda functions to transform the data into CSV format.
+4) Loads the transformed data into another S3 bucket.
+5) Uses Apache Airflow for orchestration, including monitoring with S3KeySensor.
+6) Finally, connects Amazon QuickSight to visualize the data stored in Amazon Redshift.
 
 ## Technologies Used
 
